@@ -1,5 +1,5 @@
 # command_tools
-Some interesting command line for macOS (maybe also valid for Linux). 
+Some interesting commands for macOS (maybe also valid for Linux). 
 
 # 1. asciiquarium
 
